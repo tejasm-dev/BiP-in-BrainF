@@ -10,7 +10,7 @@ Build in Public
 ]
 
 # Loop to set up the memory:
-# Cell #1 = 60, #2 = 110, #3 = 80, #4 = 30
+# Cell  #1 = 60  #2 = 110  #3 = 80  #4 = 30
 
 >++++++. B (66)
 >+++++++. u (117)
