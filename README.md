@@ -1,5 +1,7 @@
 # "Build in Public" in BrainF
 
+[Run this project](https://www.google.com/search?q=BrainF%20compiler): Copy and paste this in one of the BrainF compilers.
+
 This is a code showing how to print "Build in Public" in an esoteric programming language called BrainF**k.
 
 Comments are shown to tell steps of initiating and printing every single letter step by step.
@@ -35,3 +37,8 @@ ASCII table for letters to print:
 - l = 108
 - i = 105
 - c = 99
+
+# Links
+<p>Made by Tejas</p>
+<a href="x.com/tejasm_" target="_blank">X</a>
+<a href="github.com/tejasm-dev" target="_blank">GitHub</a>
