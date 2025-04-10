@@ -39,6 +39,6 @@ ASCII table for letters to print:
 - c = 99
 
 # Links
-<p>Made by Tejas</p>
-<a href="x.com/tejasm_" target="_blank">X</a>
+<p>Made by Tejas</p><br/>
+<a href="x.com/tejasm_" target="_blank">X</a><br/>
 <a href="github.com/tejasm-dev" target="_blank">GitHub</a>
