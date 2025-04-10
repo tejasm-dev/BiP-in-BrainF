@@ -40,5 +40,5 @@ ASCII table for letters to print:
 
 # Links
 <h3>Made by Tejas</h3>
-Follow me on: <a href="x.com/tejasm_" target="_blank">X</a><br/>
-Look at my other projects on: <a href="github.com/tejasm-dev" target="_blank">GitHub</a>
+Follow me on: <a href="https://x.com/tejasm_" target="_blank">X</a><br/>
+Look at my other projects on: <a href="https://github.com/tejasm-dev" target="_blank">GitHub</a>
